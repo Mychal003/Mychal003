@@ -11,16 +11,15 @@
 
 ## 🔍 My Projects
 Some of my highlighted projects:
+- [Praca inżynierska](https://github.com/Mychal003/rag-documentation-assistant.git) -Intelligent document assistant powered by RAG — upload PDFs, ask questions, get cited answers. Built with Flask, OpenAI GPT-4o, FAISS, and vanilla JS.
 - [Projekt-sieci-neuronowe](https://github.com/Mychal003/Projekt-sieci-neuronowe) - Lunar Lander docking using DQN in the Lunar Lander environment.
 - [Klasyfikator irysów](https://github.com/Mychal003/Klasyfikator_irysow) - Iris data classifier using machine learning.
 - [TicTacToe](https://github.com/Mychal003/TicTacToe) - A simple Tic-Tac-Toe game written in C++.
 
-## 📊 Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mychal003&show_icons=true&theme=radical)
 
 ## 🌐 Contact
 - 📧 **Email**: [pawlikm11@gmail.com](mailto:pawlikm11@gmail.com)
-- 💼 **LinkedIn**: [Your Profile](https://www.linkedin.com/in/micha%C5%82-pawlik-b1241b333/?trk=public_profile-settings_edit-profile-content&originalSubdomain=pl)
+- 💼 **LinkedIn**: [My Profile](https://www.linkedin.com/in/micha%C5%82-pawlik-b1241b333/?trk=public_profile-settings_edit-profile-content&originalSubdomain=pl)
 
 ---
 
